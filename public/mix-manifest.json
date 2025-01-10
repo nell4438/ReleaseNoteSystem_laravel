@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chunks/Main.js": "/js/chunks/Main.js",
+    "/js/chunks/Programmer.js": "/js/chunks/Programmer.js",
+    "/js/chunks/SystemName.js": "/js/chunks/SystemName.js",
+    "/js/chunks/Requestor.js": "/js/chunks/Requestor.js",
+    "/js/chunks/Type.js": "/js/chunks/Type.js",
+    "/js/chunks/Kind.js": "/js/chunks/Kind.js",
+    "/js/chunks/Error.js": "/js/chunks/Error.js",
+    "/css/app.css": "/css/app.css"
+}
